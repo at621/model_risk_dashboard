@@ -35,6 +35,7 @@ All status rules and thresholds are illustrative. Monitoring history covers the 
 | File | Contents |
 | --- | --- |
 | `dashboard/ModelRisk.pbix` | Ready-to-open dashboard with embedded dummy data |
+| [dashboard/ModelRisk_RawData.txt](dashboard/ModelRisk_RawData.txt) | Raw dummy data for all seven tables, in JSON-formatted text |
 | `docs/media/walkthrough.gif` | Animated dashboard preview |
 | `README.md` | Overview and launch instructions |
 | `LICENSE` | MIT license |

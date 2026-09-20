@@ -1,5 +1,5 @@
 # Minimal dashboard distribution: keep the report and its public presentation.
-# All development files, datasets, caches, packages and other media stay local.
+# Development files, additional data exports, caches, packages and other media stay local.
 /*
 !/.gitignore
 !/.gitattributes
@@ -10,6 +10,7 @@
 !/dashboard/
 /dashboard/*
 !/dashboard/ModelRisk.pbix
+!/dashboard/ModelRisk_RawData.txt
 
 # Preserve the animated preview embedded in the README.
 !/docs/
