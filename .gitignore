@@ -1,0 +1,19 @@
+# Minimal dashboard distribution: keep the report and its public presentation.
+# All development files, datasets, caches, packages and other media stay local.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+
+# The PBIX contains the model, report, theme and dummy data needed to launch.
+!/dashboard/
+/dashboard/*
+!/dashboard/ModelRisk.pbix
+
+# Preserve the animated preview embedded in the README.
+!/docs/
+/docs/*
+!/docs/media/
+/docs/media/*
+!/docs/media/walkthrough.gif
